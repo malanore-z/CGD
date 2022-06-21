@@ -1,0 +1,2 @@
+[console_scripts]
+cgd = cgd.cli_main:cgd
